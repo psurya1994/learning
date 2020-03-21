@@ -1,4 +1,12 @@
-# Learning: A repo of things I've explored daily
+# Learning: A repo of things I've learnt today
+
+Here's the monthly updates list:
+- [March 2020](https://github.com/psurya1994/learning/blob/master/march-2020.md)
+
+This repo contains daily updates about things that I'm learning everyday outside of my core research area. 
+
+
+## Everything below is me randomly day dreaming, please ignore.
 
 Need to mention why I'm doing this here. Talk about things like: 
 - Building better inductive biases for my brain
@@ -10,12 +18,6 @@ Need to mention why I'm doing this here. Talk about things like:
 - Intention is also to grab details efficiently not taking too long
 - Intention is to spent more time thinking than just leanring. In general, I want thinking time to be more than watching.reading time.
 
-
-
-
 Links
 - https://ocw.mit.edu/resources/res-9-003-brains-minds-and-machines-summer-course-summer-2015/
 - People I want to learn about: Surya Ganguli, Tim Lillicrap, Yoshua Bengio, Konrad, 
-
-Here's the monthly updates list:
-- [March 2020](https://github.com/psurya1994/learning/blob/master/march-2020.md)
