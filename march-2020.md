@@ -21,9 +21,20 @@ March 17th 2020
 - Week 1 of ([link](https://www.coursera.org/learn/covid-19))
 	- I wanted to learn the science behind this, this course doesn't seem to cover much of it.
 
-March 18th 2018
+March 18th 2020
 - John M. Barry "The Next Pandemic: Lessons from History" ([YouTube](https://www.youtube.com/watch?v=m9cmAahzVEc))
 	- Predicts the pandemic and gives interesting insights. He's been thinking about these questions since earlier. 
 	- Learnt: we need to invest more money into finding a universal vaccine for influenza. 
 
+March 19th 2020
+- A practical summary of the covid-19 situation by Jeremy Howard ([YouTube](https://www.youtube.com/watch?v=GZ0yNMnvwqY))
+	- Masks help. We need: massive testing + masks + social distancing. South Korea was able to control the infections without lockdown! ICL made huge mistakes in modeling for UK, and UK made the wrong calls because of it. 
+	- If I'm doing somehting that has an impact on lives of people, I need to do everything in my power to make sure it's accurate. This could include: getting people to verfiy my work, spending more time double checking myself, being honest about how confident I am about htese models, etc.
+	- 5% of people my age need hospitalization. Which is scary given the estimates that 30% of the country will be infected. 
+
+March 20th 2020
+- Viruses & How to Beat Them - Week 1 ([edX course link](https://www.edx.org/learn/immunology))
+	- Learning basics of the micro world. Visiting atoms, molecules, organic chemistry, polarity in molecules, etc. Interesting stuff, finding them quite fascinating. Maybe I should schedule a call with people who work in this area.
+
+March 21st 2020
 
